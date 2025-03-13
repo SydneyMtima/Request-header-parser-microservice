@@ -1,0 +1,27 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:d": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SydneyMtima/Request-header-parser-microservice.git"
+  },
+  "keywords": ["node","express",""],
+  "author": "SYDNEY MTIMA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SydneyMtima/Request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/SydneyMtima/Request-header-parser-microservice#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
